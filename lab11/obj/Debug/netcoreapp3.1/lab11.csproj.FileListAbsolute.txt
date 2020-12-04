@@ -1,0 +1,12 @@
+/Users/nevernimdpieceofshit/Projects/lab11/lab11/obj/Debug/netcoreapp3.1/lab11.csprojAssemblyReference.cache
+/Users/nevernimdpieceofshit/Projects/lab11/lab11/obj/Debug/netcoreapp3.1/lab11.AssemblyInfoInputs.cache
+/Users/nevernimdpieceofshit/Projects/lab11/lab11/obj/Debug/netcoreapp3.1/lab11.AssemblyInfo.cs
+/Users/nevernimdpieceofshit/Projects/lab11/lab11/obj/Debug/netcoreapp3.1/lab11.csproj.CoreCompileInputs.cache
+/Users/nevernimdpieceofshit/Projects/lab11/lab11/bin/Debug/netcoreapp3.1/lab11.deps.json
+/Users/nevernimdpieceofshit/Projects/lab11/lab11/bin/Debug/netcoreapp3.1/lab11.runtimeconfig.json
+/Users/nevernimdpieceofshit/Projects/lab11/lab11/bin/Debug/netcoreapp3.1/lab11.runtimeconfig.dev.json
+/Users/nevernimdpieceofshit/Projects/lab11/lab11/bin/Debug/netcoreapp3.1/lab11.dll
+/Users/nevernimdpieceofshit/Projects/lab11/lab11/bin/Debug/netcoreapp3.1/lab11.pdb
+/Users/nevernimdpieceofshit/Projects/lab11/lab11/obj/Debug/netcoreapp3.1/lab11.dll
+/Users/nevernimdpieceofshit/Projects/lab11/lab11/obj/Debug/netcoreapp3.1/lab11.pdb
+/Users/nevernimdpieceofshit/Projects/lab11/lab11/obj/Debug/netcoreapp3.1/lab11.genruntimeconfig.cache
